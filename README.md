@@ -14,7 +14,7 @@ This is a web application built using HTML, CSS, and vanilla JavaScript that all
 2. Open `index.html` in your web browser.
 
 # Usage
-1. **Creating a New Resume**: Click on the "Create New Resume" button to start building your resume.
+1. **Creating a New Resume**: Click on the "Create My Resume" button to start building your resume.
 2. **Customizing Your Resume**: Fill in the required sections with your personal information, education, work experience, skills, etc.
 3. **Previewing Your Resume**: Review your completed resume before downloading.
 4. **Downloading a Resume**: Once your resume is ready, click on the "Download PDF" button to save it as a PDF file
